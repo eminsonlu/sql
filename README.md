@@ -13,3 +13,9 @@ SQL (Structured Query Language), ilişkisel veritabanları ile iletişim kurmak 
     * [SELECT komutu](./docs/select.md)
     * [Tablolar](./docs/tables.md)
     * [CONSTRAINTS](./docs/constraints.md) 
+
+* [SQL Constraints](./docs/constraints.md)
+    * [PRIMARY KEY](./docs/primarykey.md)
+    * [FOREIGN KEY](./docs/foreignkey.md)
+    * [UNIQUE](./docs/unique.md)
+    * [NOT NULL](./docs/notnull.md)
